@@ -1,0 +1,52 @@
+#header-img{
+
+  max-width:100px;
+  height:100px;
+}
+header{
+  position:fixed;
+  display:flex;
+  width:1600px;
+  max-height:100%;
+  align-items:center;
+  pisition:fixed;
+ 
+  }
+#nav-bar{ 
+  position:fixed;
+  top:0px;
+width:100%;
+height:70px;
+}
+  ul{display:flex;
+    list-style:none;
+    color:blue;
+    width:1800px;
+    justify-content:space-around;
+}
+#a{height:600px;
+  background-image:  url(https://www.vir.com.vn/stores/news_dataimages/hung/022018/25/21/in_article/office-for-lease-market-ready-to-take-off.jpg);
+background-repeat: no-repeat;
+  background-size:auto;
+background-size:2000px 700px;
+}
+
+#b{height:800px;
+  background-image:url(https://i.pinimg.com/originals/b3/4e/b0/b34eb0223066cf16ad42b1d00e544418.jpg);
+background-repeat: no-repeat;
+  background-size:auto;
+  background-size:2100px 1500px;
+}
+
+@media (max-width: 400px) {
+  iframe {
+    width: 100vw;
+   
+  }
+  
+
+ 
+  
+  
+ 
+ 
